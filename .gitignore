@@ -393,6 +393,6 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
-
+APIGateway/.idea/
 # JetBrains Rider
 *.sln.iml
